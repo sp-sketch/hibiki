@@ -1,10 +1,6 @@
 # Hibiki FIXED 7.4.2 (editied by sp)
 
-[![Build][badge-workflow]][workflow]
-[![Crowdin][badge-crowdin]][translation]
-[![License][badge-license]][license]
-[![Stable][badge-stable]][stable]
-[![Support][badge-support]][support]
+
 
 [Hibiki][hibiki] is an easy, customizable, and powerful all-in-one Discord bot that does anything that your server needs.
 
@@ -94,12 +90,5 @@ Special thanks to these people for fully translating Hibiki into other languages
 [workflow]: https://github.com/sysdotini/hibiki/actions?query=workflow%3Apush "Main GitHub workflow action."
 
 <!-- Badge URLs -->
-
-[badge-workflow]: https://img.shields.io/github/workflow/status/sysdotini/hibiki/Push "Shields.io badge for workflow status."
-[badge-crowdin]: https://badges.crowdin.net/hibiki/localized.svg "Crowdin badge for total localization progress."
-[badge-license]: https://img.shields.io/badge/license-AGPL%20v3-orange.svg "Shields.io badge for the GNU AGPLv3."
-[badge-stable]: https://img.shields.io/github/v/release/sysdotini/hibiki?label=version "Shields.io badge for the latest stable Hibiki release."
-[badge-latest]: https://img.shields.io/github/package-json/v/sysdotini/hibiki/main?color=red&label=latest "Shields.io badge for the latest Hibiki release."
-[badge-support]: https://img.shields.io/discord/620287077778587651?color=purple&label=support "Shields.io badge for the Discord support server information."
-
+ok
 
