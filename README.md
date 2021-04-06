@@ -102,12 +102,4 @@ Special thanks to these people for fully translating Hibiki into other languages
 [badge-latest]: https://img.shields.io/github/package-json/v/sysdotini/hibiki/main?color=red&label=latest "Shields.io badge for the latest Hibiki release."
 [badge-support]: https://img.shields.io/discord/620287077778587651?color=purple&label=support "Shields.io badge for the Discord support server information."
 
-<!-- Translator links -->
 
-[cth103]: https://github.com/cthpw103 "cth103's GitHub profile"
-[sol]: https://github.com/solelysol "Sol's GitHub profile"
-[nocturno]: https://github.com/nocturnodev "nocturno's GitHub profile"
-[nephacks]: https://github.com/nepneppynep "nephacks' GitHub profile"
-[resolved]: https://github.com/resolvedxd "resolved's GitHub profile"
-[hikari]: https://crowdin.com/profile/hikari_hoshino "hikari's Crowdin profile"
-##SP
