@@ -1,4 +1,4 @@
-# Hibiki
+# Hibiki FIXED 7.4.2 (editied by sp)
 
 [![Build][badge-workflow]][workflow]
 [![Crowdin][badge-crowdin]][translation]
