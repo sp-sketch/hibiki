@@ -110,3 +110,4 @@ Special thanks to these people for fully translating Hibiki into other languages
 [nephacks]: https://github.com/nepneppynep "nephacks' GitHub profile"
 [resolved]: https://github.com/resolvedxd "resolved's GitHub profile"
 [hikari]: https://crowdin.com/profile/hikari_hoshino "hikari's Crowdin profile"
+##SP
