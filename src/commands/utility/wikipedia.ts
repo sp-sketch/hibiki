@@ -14,7 +14,7 @@ export class WikipediaCommand extends Command {
 
     const body = await axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${query}`).catch(() => {});
 
-    if (!body || !body.data || body.data.title === "Not found.") {
+    if (!body || !body.data || body.data.title === "Not found Oh shit this is an error? ") {
       return msg.createEmbed(msg.string("global.ERROR"), msg.string("utility.WIKIPEDIA_NOTFOUND"), "error");
     }
 
